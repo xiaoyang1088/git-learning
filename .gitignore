@@ -1,0 +1,19 @@
+# 密钥和环境变量
+.env
+
+# 临时文件
+temp/
+*.log
+
+# Python 自动生成的缓存
+__pycache__/
+*.pyc
+
+# Python 虚拟环境
+.venv/
+
+# 深度学习数据和模型权重
+data/
+checkpoints/
+*.pt
+*.pth
